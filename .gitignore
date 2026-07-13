@@ -1,0 +1,27 @@
+# Build outputs
+**/target/
+**/dist/
+**/build/
+
+# Dependency directories
+**/node_modules/
+
+# IDE settings and project files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath/
+.project/
+.factorypath
+
+# Local configuration and logs
+*.log
+.gemini/
+.agents/
+.system_generated/
+auctioniq-backend/bin/
+
+# OS specific files
+.DS_Store
+Thumbs.db
